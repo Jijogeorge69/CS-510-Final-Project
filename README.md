@@ -2,7 +2,7 @@
 Movie Recommendation Engine: Classification of rating and box office revenue for a movie
 
 ## Submitted By:-
-Shivani Aggarwal, Intern     Vighnajeet Naik, Intern       Jijo George, Intern   
+Shivani Aggarwal     Vighnajeet Naik       Jijo George  
 
 ## Steps to run project
 
